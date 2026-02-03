@@ -252,6 +252,12 @@ export default function Home() {
         
       </div>
     </div>
+
+    {/* FOOTER */}
+      <footer className="bg-blue-300 p-20 mt-20 text-white font-bold text-center text-xl">
+        © 2026 Kajal Kotak. All rights reserved.
+      </footer>
+    </>
   );
 }
-<footer className="bg-blue-300 p-20 text-white text-bold text-center text-xl">© 2026 Kajal Kotak. All rights reserved.</footer>
+
